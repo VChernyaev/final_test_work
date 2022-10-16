@@ -1,5 +1,5 @@
 ﻿
-string[] array1 = new string[6] {"hello","2","world","Russia","cat","be"};
+string[] array1 = new string[6];
 string[] array2 = new string[array1.Length];
 FillSecondArray(array1,array2);
 PrintArray(array2);
